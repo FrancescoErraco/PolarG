@@ -1,0 +1,17 @@
+{
+  "name": "polar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "imagix": "^0.2.6",
+    "weez": "^1.5.2"
+  }
+}
